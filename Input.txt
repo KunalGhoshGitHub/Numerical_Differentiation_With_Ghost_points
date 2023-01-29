@@ -1,0 +1,8 @@
+// Number of grid points
+100
+
+// Interval starts at a:
+0
+
+// Interval ends at b:
+31.4159265359
